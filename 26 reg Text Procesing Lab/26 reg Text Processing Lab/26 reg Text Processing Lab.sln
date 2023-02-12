@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 reg Text Processing Lab", "26 reg Text Processing Lab.csproj", "{4B8C7BBE-4337-402F-9362-A869147F7E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Strings", "..\01. Reverse Strings\01. Reverse Strings.csproj", "{D670BCB7-1CA4-471E-9D53-751EAD1DC11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Repeat Strings", "..\02. Repeat Strings\02. Repeat Strings.csproj", "{EEF8F1EA-E227-4B10-9AEE-75D66EB60BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Substring", "..\03. Substring\03. Substring.csproj", "{ECDBBD06-3D23-4A0D-80FD-5853E47BB1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text Filter", "..\04. Text Filter\04. Text Filter.csproj", "{068CEE01-B3CD-4AD6-91B8-ED17C2BA161A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Digits, Letters and Other", "..\05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{E34F3CCF-5E75-4D2A-BFD1-EAA2444E78C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B8C7BBE-4337-402F-9362-A869147F7E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8C7BBE-4337-402F-9362-A869147F7E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8C7BBE-4337-402F-9362-A869147F7E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8C7BBE-4337-402F-9362-A869147F7E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D670BCB7-1CA4-471E-9D53-751EAD1DC11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D670BCB7-1CA4-471E-9D53-751EAD1DC11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D670BCB7-1CA4-471E-9D53-751EAD1DC11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D670BCB7-1CA4-471E-9D53-751EAD1DC11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF8F1EA-E227-4B10-9AEE-75D66EB60BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF8F1EA-E227-4B10-9AEE-75D66EB60BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF8F1EA-E227-4B10-9AEE-75D66EB60BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF8F1EA-E227-4B10-9AEE-75D66EB60BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDBBD06-3D23-4A0D-80FD-5853E47BB1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDBBD06-3D23-4A0D-80FD-5853E47BB1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDBBD06-3D23-4A0D-80FD-5853E47BB1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDBBD06-3D23-4A0D-80FD-5853E47BB1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068CEE01-B3CD-4AD6-91B8-ED17C2BA161A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068CEE01-B3CD-4AD6-91B8-ED17C2BA161A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068CEE01-B3CD-4AD6-91B8-ED17C2BA161A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068CEE01-B3CD-4AD6-91B8-ED17C2BA161A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34F3CCF-5E75-4D2A-BFD1-EAA2444E78C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34F3CCF-5E75-4D2A-BFD1-EAA2444E78C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34F3CCF-5E75-4D2A-BFD1-EAA2444E78C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34F3CCF-5E75-4D2A-BFD1-EAA2444E78C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E752514A-7880-4E46-9C48-5685B536F59D}
+	EndGlobalSection
+EndGlobal
